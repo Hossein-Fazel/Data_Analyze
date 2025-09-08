@@ -1,0 +1,16 @@
+Profession,Country,Average Salary (Local Currency),Source
+Software Engineer,United States,96500,PayScale
+Software Engineer,Germany,65000,PayScale
+Software Engineer,India,850000,PayScale
+Software Engineer,Japan,7000000,PayScale
+Software Engineer,Canada,84000,PayScale
+AI/ML Engineer,United States,130000,PayScale
+AI/ML Engineer,Germany,80000,PayScale
+AI/ML Engineer,India,1500000,PayScale
+AI/ML Engineer,Japan,9000000,PayScale
+AI/ML Engineer,Canada,105000,PayScale
+Cybersecurity Analyst,United States,82000,PayScale
+Cybersecurity Analyst,Germany,60000,PayScale
+Cybersecurity Analyst,India,700000,PayScale
+Cybersecurity Analyst,Japan,6500000,PayScale
+Cybersecurity Analyst,Canada,75000,PayScale
